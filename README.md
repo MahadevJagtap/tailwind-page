@@ -1,1 +1,1 @@
-https://imahadxv.github.io/tailwind-css-2/
+(https://mahadevjagtap.github.io/tailwind-page/)
